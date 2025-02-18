@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "cmath": "cpp",
-        "*.tpp": "cpp"
-    },
-    "cmake.configureOnOpen": true,
-    "cmake.sourceDirectory": "C:/Users/charl/OneDrive/Documents/GitHub/rover-Core/embedded_main/.pio/libdeps/teensy41/Adafruit BusIO"
-}
